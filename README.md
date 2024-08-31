@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://your-solution-url.com)](https://www.frontendmentor.io/solutions/results-summary-component-jvAE2kCyWu)
+- Solution URL: (https://your-solution-url.com)](https://www.frontendmentor.io/solutions/results-summary-component-jvAE2kCyWu)
 - Live Site URL: https://manjirigole.github.io/Results-summary-component/
 
 ### Built with
